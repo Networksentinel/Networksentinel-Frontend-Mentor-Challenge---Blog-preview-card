@@ -3,4 +3,27 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     gap: clamp(1px, 0.42vw, var(--100));
+
+    padding: 1.5rem 1rem 0.5rem;
+}
+
+footer span {
+    display: block;
+}
+
+footer a {
+    display: inline-block;
+
+    text-decoration: none;
+    color: var(--Gray-500);
+    font: clamp(14px, 1.11vw, 16px)/150% 'Figtree-Medium', sans-serif;
+
+    transition: all 0.2s ease;
+}
+
+footer a:hover {
+    color: var(--Gray-950);
+    text-decoration: underline;
+
+    transform: translateY(-3px);
 }
