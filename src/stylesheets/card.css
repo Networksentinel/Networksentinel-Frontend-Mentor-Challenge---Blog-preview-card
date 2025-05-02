@@ -27,6 +27,15 @@
     gap: var(--150);
 }
 
+.first-heading {
+    width: fit-content;
+
+    padding: var(--50) var(--150);
+    background-color: var(--yellow);
+
+    border-radius: 4px;
+}
+
 .published {
     font-family:'Figtree-Medium', sans-serif;
 }
@@ -34,7 +43,7 @@
 .author {
     display: flex;
     align-items: center;
-    gap: 5.5px;
+    gap: var(--150);
 }
 
 .author img {
