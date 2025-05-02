@@ -26,3 +26,7 @@
     flex-direction: column;
     gap: var(--150);
 }
+
+.published {
+    font-family:'Figtree-Medium', sans-serif;
+}
