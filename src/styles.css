@@ -30,4 +30,23 @@
 
 /*-----------------------GLOBAL STYLES-----------------------*/
 
+/*FONTS*/
+body {
+    font: 16px/150% 'Figtree-Medium', sans-serif;
+    letter-spacing: 0px;
+    min-height: 100vh;
 
+    color: var(--Gray-950);
+}
+
+h2 {
+    font: 24px/150% 'Figtree-ExtraBold', sans-serif;
+}
+
+h3 {
+    font: 14px/150% 'Figtree-ExtraBold', sans-serif;
+}
+
+.date {
+    font:'Figtree-Medium', sans-serif;
+}
