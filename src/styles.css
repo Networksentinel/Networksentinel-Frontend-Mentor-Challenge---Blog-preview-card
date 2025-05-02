@@ -1,4 +1,5 @@
 @import url(./stylesheets/normalize.css);
+@import url(./stylesheets/card.css);
 
 @font-face {
     font-family: 'Figtree-Medium';
@@ -64,24 +65,4 @@ h3 {
 
 .date {
     font:'Figtree-Medium', sans-serif;
-}
-
-/*-----------------------THE CARD-----------------------*/
-
-.card {
-    height: 522px;
-    width: 384px;
-
-    display: flex;
-    flex-direction: column;
-
-    background-color: var(--White);
-
-    box-shadow: 8px 8px 0px 0px rgba(0,0,0,1);
-    -webkit-box-shadow: 8px 8px 0px 0px rgba(0,0,0,1);
-    -moz-box-shadow: 8px 8px 0px 0px rgba(0,0,0,1);
-
-    border: 1px solid var(--Gray-950);
-    border-radius: 20px;
-    padding: var(--300);
 }
