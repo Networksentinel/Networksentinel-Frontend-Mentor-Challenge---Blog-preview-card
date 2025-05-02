@@ -19,6 +19,10 @@
 }
 
 .card-img {
+    background: url('../images/illustration-article.svg') no-repeat center center;
+
+    width: auto;
+    height: 200px;
     border-radius: 10px;
 }
 
