@@ -1,0 +1,14 @@
+:root {
+    /*COLORS*/
+    --yellow: #F4D04E;
+    --Gray-950: #111111;
+    --Gray-500: #6B6B6B;
+    --White: #FFFFFF;
+
+    /*SPACING*/
+    --300: 24px;
+    --150: 12px;
+    --100: 8px;
+    --50: 4px;
+}
+
