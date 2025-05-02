@@ -1,5 +1,19 @@
 @import url(./stylesheets/normalize.css);
 
+@font-face {
+    font-family: 'Figtree-Medium';
+    src: url('./fonts/Figtree-Medium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Figtree-ExtraBold';
+    src: url('./fonts/Figtree-ExtraBold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
+
 :root {
     /*COLORS*/
     --yellow: #F4D04E;
