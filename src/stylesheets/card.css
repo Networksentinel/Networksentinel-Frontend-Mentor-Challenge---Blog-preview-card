@@ -30,3 +30,14 @@
 .published {
     font-family:'Figtree-Medium', sans-serif;
 }
+
+.author {
+    display: flex;
+    align-items: center;
+    gap: 5.5px;
+}
+
+.author img {
+    width: 32px;
+    height: 32px;
+}
