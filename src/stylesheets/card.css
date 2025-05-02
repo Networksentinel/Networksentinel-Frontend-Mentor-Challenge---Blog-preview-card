@@ -40,6 +40,15 @@
     font-family:'Figtree-Medium', sans-serif;
 }
 
+.main-heading {
+    width: fit-content;
+}
+
+.main-heading:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
+
 .author {
     display: flex;
     align-items: center;
