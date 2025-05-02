@@ -1,3 +1,5 @@
+@import url(./stylesheets/normalize.css);
+
 :root {
     /*COLORS*/
     --yellow: #F4D04E;
