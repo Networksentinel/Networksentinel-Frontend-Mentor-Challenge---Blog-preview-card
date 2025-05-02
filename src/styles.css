@@ -36,6 +36,8 @@ body {
     min-height: 100vh;
 
     color: var(--Gray-950);
+
+    background-color: var(--yellow);
 }
 
 h2 {
@@ -49,3 +51,6 @@ h3 {
 .date {
     font:'Figtree-Medium', sans-serif;
 }
+
+/*-----------------------THE CARD-----------------------*/
+
