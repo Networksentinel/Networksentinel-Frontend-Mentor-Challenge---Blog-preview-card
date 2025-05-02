@@ -32,7 +32,7 @@
 /*-----------------------GLOBAL STYLES-----------------------*/
 
 body {
-    font: 16px/150% 'Figtree-Medium', sans-serif;
+    font: clamp(14px, 1.11vw, 16px)/150% 'Figtree-Medium', sans-serif;
     letter-spacing: 0px;
 
     color: var(--Gray-950);
@@ -56,11 +56,11 @@ main {
 }
 
 h2 {
-    font: 24px/150% 'Figtree-ExtraBold', sans-serif;
+    font: clamp(20px, 1.67vw, 24px)/150% 'Figtree-ExtraBold', sans-serif;
 }
 
 h3 {
-    font: 14px/150% 'Figtree-ExtraBold', sans-serif;
+    font: clamp(12px, 0.97vw, 14px)/150% 'Figtree-ExtraBold', sans-serif;
 }
 
 p {
