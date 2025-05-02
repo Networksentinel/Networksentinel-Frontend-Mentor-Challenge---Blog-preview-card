@@ -63,6 +63,10 @@ h3 {
     font: 14px/150% 'Figtree-ExtraBold', sans-serif;
 }
 
+p {
+    color: var(--Gray-500);
+}
+
 .published {
     font-family:'Figtree-Medium', sans-serif;
 }
