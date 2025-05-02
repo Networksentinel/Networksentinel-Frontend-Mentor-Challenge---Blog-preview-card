@@ -2,4 +2,5 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    gap: clamp(1px, 0.42vw, var(--100));
 }
