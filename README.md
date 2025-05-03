@@ -42,4 +42,3 @@ Here’s an example showing how I applied it to the size of the main card compon
   height: clamp(501px, 36.25vw, 522px);
 }
 ```
-If you want to know how to calculated those values, just ask 🙂 I’ll be happy to explain.
