@@ -17,8 +17,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ![](./src/images/Final%20project%20screenshot.png)
 
 ### Links
-- [Solution:](https://www.frontendmentor.io/solutions/blog-preview-card-using-htmlcssvite-aqTKwaes1Y)
-- [Live Site:](https://networksentinel.github.io/Networksentinel-Frontend-Mentor-Challenge---Blog-preview-card/)
+- [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-using-htmlcssvite-aqTKwaes1Y)
+- [Live Site](https://networksentinel.github.io/Networksentinel-Frontend-Mentor-Challenge---Blog-preview-card/)
 
 ## My process
 
